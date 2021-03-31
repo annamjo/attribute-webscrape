@@ -1,0 +1,1021 @@
+Id,Attribute,Definition
+1,in,directed or bound inward
+2,i,used of a single unit or thing; not two or more
+3,on,in operation or operational
+4,all,quantifier
+5,0,indicating the absence of any or all units under consideration
+6,1,used of a single unit or thing; not two or more
+7,10,being one more than nine
+8,100,being ten more than ninety
+9,1000,"denoting a quantity consisting of 1,000 items or units"
+10,1000th,the ordinal number of one thousand in counting order
+11,100th,the ordinal number of one hundred in counting order
+12,101,being one more than one hundred
+13,101st,the ordinal number of one hundred one in counting order
+14,105,being five more than one hundred
+15,105th,the ordinal number of one hundred five in counting order
+16,10-membered,of a chemical compound having a ring with ten members
+17,10th,coming next after the ninth and just before the eleventh in position
+18,11,being one more than ten
+19,110,being ten more than one hundred
+20,110th,the ordinal number of one hundred ten in counting order
+21,115,being five more than one hundred ten
+22,115th,the ordinal number of one hundred fifteen in counting order
+23,11th,coming next after the tenth and just before the twelfth in position
+24,12,denoting a quantity consisting of 12 items or units
+25,120,being ten more than one hundred ten
+26,120th,the ordinal number of one hundred twenty in counting order
+27,125,being five more than one hundred twenty
+28,125th,the ordinal number of one hundred twenty-five in counting order
+29,12th,coming next after the eleventh and just before the thirteenth in position
+30,13,being one more than twelve
+31,130,being ten more than one hundred twenty
+32,130th,the ordinal number of one hundred thirty in counting order
+33,135,being five more than one hundred thirty
+34,135th,the ordinal number of one hundred thirty-five in counting order
+35,13th,coming next after the twelfth in position
+36,14,being one more than thirteen
+37,140,being ten more than one hundred thirty
+38,140th,the ordinal number of one hundred forty in counting order
+39,145,being five more than one hundred forty
+40,145th,the ordinal number of one hundred forty-five in counting order
+41,14th,coming next after the thirteenth in position
+42,15,being one more than fourteen
+43,150,being ten more than one hundred forty
+44,150th,the ordinal number of one hundred fifty in counting order
+45,155,being five more than one hundred fifty
+46,155th,the ordinal number of one hundred fifty-five in counting order
+47,15th,coming next after the fourteenth and just before the sixteenth in position
+48,16,being one more than fifteen
+49,160,being ten more than one hundred fifty
+50,160th,the ordinal number of one hundred sixty in counting order
+51,165,being five more than one hundred sixty
+52,165th,the ordinal number of one hundred sixty-five in counting order
+53,16th,coming next after the fifteenth in position
+54,17,being one more than sixteen
+55,170,being ten more than one hundred sixty
+56,170th,the ordinal number of one hundred seventy in counting order
+57,175,being five more than one hundred seventy
+58,175th,the ordinal number of one hundred seventy-five in counting order
+59,17th,coming next after the sixteenth in position
+60,18,being one more than seventeen
+61,180,being ten more than one hundred seventy
+62,180th,the ordinal number of one hundred eighty in counting order
+63,18th,coming next after the seventeenth in position
+64,19,being one more than eighteen
+65,190,being ten more than one hundred eighty
+66,190th,the ordinal number of one hundred eighty-five in counting order
+67,19th,coming next after the eighteenth in position
+68,1st,indicating the beginning unit in a series
+69,2,being one more than one
+70,20,denoting a quantity consisting of 20 items or units
+71,200,being ten more than one hundred ninety
+72,200th,the ordinal number of two hundred in counting order
+73,20th,coming next after the nineteenth in position
+74,21,being one more than twenty
+75,21st,coming next after the twentieth in position
+76,22,being two more than twenty
+77,.22 caliber,of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter
+78,.22-caliber,of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter
+79,.22 calibre,of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter
+80,.22-calibre,of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter
+81,22nd,coming next after the twenty-first in position
+82,23,being three more than twenty
+83,23rd,coming next after the twenty-second in position
+84,24,being four more than twenty
+85,24th,coming next after the twenty-third in position
+86,25,being five more than twenty
+87,25th,coming next after the twenty-fourth in position
+88,26,being six more than twenty
+89,26th,coming next after the twenty-fifth in position
+90,27,being seven more than twenty
+91,27th,coming next after the twenty-sixth in position
+92,28,being eight more than twenty
+93,28th,coming next after the twenty-seventh in position
+94,29,being nine more than twenty
+95,29th,coming next after the twenty-eighth in position
+96,2d,coming next after the first in position in space or time or degree or magnitude
+97,2-dimensional,lacking the expected range or depth
+98,2nd,coming next after the first in position in space or time or degree or magnitude
+99,3,being one more than two
+100,30,being ten more than twenty
+101,300,being one hundred more than two hundred
+102,300th,the ordinal number of three hundred in counting order
+103,30th,coming next after the twenty-ninth in position
+104,31,being one more than thirty
+105,31st,coming next after the thirtieth in position
+106,32,being two more than thirty
+107,32nd,the ordinal number of thirty-two in counting order
+108,33,being three more than thirty
+109,33rd,the ordinal number of thirty-three in counting order
+110,34,being four more than thirty
+111,34th,the ordinal number of thirty-four in counting order
+112,35,being five more than thirty
+113,35th,the ordinal number of thirty-five in counting order
+114,36,being six more than thirty
+115,36th,the ordinal number of thirty-six in counting order
+116,37,being seven more than thirty
+117,37th,the ordinal number of thirty-seven in counting order
+118,38,being eight more than thirty
+119,.38 caliber,of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter
+120,.38-caliber,of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter
+121,.38 calibre,of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter
+122,.38-calibre,of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter
+123,38th,the ordinal number of thirty-eight in counting order
+124,39,being nine more than thirty
+125,39th,the ordinal number of thirty-nine in counting order
+126,3-dimensional,involving or relating to three dimensions or aspects
+127,3-membered,of a chemical compound having a ring with three members
+128,3rd,coming next after the second and just before the fourth in position
+129,4,being one more than three
+130,40,being ten more than thirty
+131,400,being one hundred more than three hundred
+132,400th,the ordinal number of four hundred in counting order
+133,40th,the ordinal number of forty in counting order
+134,41,being one more than forty
+135,41st,the ordinal number of forty-one in counting order
+136,42,being two more than forty
+137,42nd,the ordinal number of forty-two in counting order
+138,43,being three more than forty
+139,43rd,the ordinal number of forty-three in counting order
+140,44,being four more than forty
+141,44th,the ordinal number of forty-four in counting order
+142,45,being five more than forty
+143,.45 caliber,of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter
+144,.45-caliber,of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter
+145,.45 calibre,of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter
+146,.45-calibre,of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter
+147,45th,the ordinal number of forty-five in counting order
+148,46,being six more than forty
+149,46th,the ordinal number of forty-six in counting order
+150,47,being seven more than forty
+151,47th,the ordinal number of forty-seven in counting order
+152,48,being eight more than forty
+153,48th,the ordinal number of forty-eight in counting order
+154,49,being nine more than forty
+155,49th,the ordinal number of forty-nine in counting order
+156,4-dimensional,involving or relating to the fourth dimension or time
+157,4-membered,of a chemical compound having a ring with four members
+158,4th,coming next after the third and just before the fifth in position or time or degree or magnitude
+159,5,being one more than four
+160,50,being ten more than forty
+161,500,denoting a quantity consisting of 500 items or units
+162,500th,the ordinal number of five hundred in counting order
+163,50th,the ordinal number of fifty in counting order
+164,51,being one more than fifty
+165,52,being two more than fifty
+166,53,being three more than fifty
+167,54,being four more than fifty
+168,55,being five more than fifty
+169,55th,the ordinal number of fifty-five in counting order
+170,56,being six more than fifty
+171,57,being seven more than fifty
+172,58,being eight more than fifty
+173,59,being nine more than fifty
+174,5-membered,of a chemical compound having a ring with five members
+175,5th,coming next after the fourth and just before the sixth in position
+176,6,denoting a quantity consisting of six items or units
+177,60,being ten more than fifty
+178,60th,the ordinal number of sixty in counting order
+179,61,being one more than sixty
+180,62,being two more than sixty
+181,63,being three more than sixty
+182,64,being four more than sixty
+183,64th,the ordinal number of sixty-four in counting order
+184,65,being five more than sixty
+185,65th,the ordinal number of sixty-five in counting order
+186,66,being six more than sixty
+187,67,being seven more than sixty
+188,68,being eight more than sixty
+189,69,being nine more than sixty
+190,6-membered,of a chemical compound having a ring with six members
+191,6th,coming next after the fifth and just before the seventh in position
+192,7,being one more than six
+193,70,being ten more than sixty
+194,70th,the ordinal number of seventy in counting order
+195,71,being one more than seventy
+196,72,being two more than seventy
+197,73,being three more than seventy
+198,74,being four more than seventy
+199,75,being five more than seventy
+200,75th,the ordinal number of seventy-five in counting order
+201,76,being six more than seventy
+202,77,being seven more than seventy
+203,78,being eight more than seventy
+204,79,being nine more than seventy
+205,7-membered,of a chemical compound having a ring with seven members
+206,7th,coming next after the sixth and just before the eighth in position
+207,8,being one more than seven
+208,80,being ten more than seventy
+209,80th,the ordinal number of eighty in counting order
+210,81,being one more than eighty
+211,82,being two more than eighty
+212,83,being three more than eighty
+213,84,being four more than eighty
+214,85,being five more than eighty
+215,85th,the ordinal number of eighty-five in counting order
+216,86,being six more than eighty
+217,87,being seven more than eighty
+218,88,being eight more than eighty
+219,89,being nine more than eighty
+220,8-membered,of a chemical compound having a ring with eight members
+221,8th,coming next after the seventh and just before the ninth in position
+222,9,denoting a quantity consisting of one more than eight and one less than ten
+223,90,being ten more than eighty
+224,90th,the ordinal number of ninety in counting order
+225,91,being one more than ninety
+226,92,being two more than ninety
+227,93,being three more than ninety
+228,94,being four more than ninety
+229,95,being five more than ninety
+230,95th,the ordinal number of ninety-five in counting order
+231,96,being six more than ninety
+232,97,being seven more than ninety
+233,98,being eight more than ninety
+234,99,being nine more than ninety
+235,9-membered,of a chemical compound having a ring with nine members
+236,9th,coming next after the eighth and just before the tenth in position
+237,abactinal,(of radiate animals) located on the surface or end opposite to that on which the mouth is situated
+238,abandoned,forsaken by owner or inhabitants
+239,abashed,feeling or caused to feel uneasy and self-conscious
+240,abasic,of or relating to abasia (inability to walk)
+241,abatable,capable of being abated
+242,abatic,of or relating to abasia (inability to walk)
+243,abaxial,facing away from the axis of an organ or organism
+244,abbatial,"of or having to do with or belonging to an abbey or abbot, or abbess"
+245,abbreviated,cut short in duration
+246,abdicable,capable of being discarded or renounced or relinquished
+247,abdominal,relating to or near the middle region of the body
+248,abdominous,having a large belly
+249,abdominovesical,of or relating to the abdomen and the urinary bladder
+250,abducent,especially of muscles
+251,abducting,especially of muscles
+252,abecedarian,"alphabetically arranged, as for beginning readers"
+253,Aberdonian,of or relating to Aberdeen
+254,aberrant,markedly different from an accepted norm
+255,abeyant,inactive but capable of becoming active
+256,abhorrent,offensive to the mind
+257,abiding,unceasing
+258,abient,characterized by avoidance or withdrawal
+259,abiogenetic,originating by abiogenesis
+260,abiotic,"not involving, containing, or derived from living organisms"
+261,abject,of the most contemptible kind
+262,Abkhaz,of or relating to Abkazia or its people or their language
+263,Abkhazian,of or relating to Abkazia or its people or their language
+264,ablated,made smaller or less by melting or erosion or vaporization
+265,ablative,relating to the ablative case
+266,ablaze,lighted up by or as by fire or flame
+267,able,having the necessary means or skill to do something
+268,able-bodied,having a strong healthy body
+269,abloom,bursting into flower
+270,ablutionary,cleansing the body by washing
+271,Abnaki,of or relating to the Abnakis or their language
+272,abnormal,not typical or usual or regular
+273,abolishable,capable of being abolished
+274,abolitionary,"relating to or favoring abolition, especially abolition of slavery"
+275,abomasal,relating to the abomasum
+276,abominable,unequivocally detestable
+277,aboral,opposite to or away from the mouth
+278,Aboriginal,of or pertaining to members of the indigenous people of Australia
+279,aboriginal,having existed from the beginning
+280,abortifacient,causing abortion
+281,abortive,failing to accomplish an intended result
+282,aboulic,suffering from abulia
+283,abounding,existing in abundance
+284,about,on the move
+285,above,appearing earlier in the same text
+286,aboveboard,without concealment or deception; honest
+287,aboveground,on or above the surface of the ground
+288,above-mentioned,mentioned or named earlier in the same text
+289,above-named,mentioned or named earlier in the same text
+290,abranchial,having no gills
+291,abranchiate,having no gills
+292,abranchious,having no gills
+293,abrasive,causing irritation or erosion by friction
+294,abreast,being up to date in knowledge
+295,abridged,shortened by condensing or rewriting
+296,abroach,of a cask or barrel
+297,abroad,in a foreign country
+298,abrupt,exceedingly sudden and unexpected
+299,abruptly-pinnate,pinnate with a pair of leaflets at the apex
+300,abscessed,infected and filled with pus
+301,absent,not being in a specified place
+302,absentminded,lost in thought; showing preoccupation
+303,absolute,perfect or complete or pure
+304,absolutist,pertaining to the principle of unrestricted government power
+305,absolutistic,pertaining to the principle of totalitarianism
+306,absolved,freed from any question of guilt
+307,absolvitory,providing absolution
+308,absorbable,capable of being absorbed or taken in through the pores of a surface
+309,absorbed,retained without reflection
+310,absorbefacient,inducing or promoting absorption
+311,absorbent,having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)
+312,absorbing,capable of arousing and holding the attention
+313,absorptive,having the power or tendency to soak up something
+314,abstemious,marked by temperance in indulgence
+315,abstentious,self-restraining
+316,abstinent,self-restraining
+317,abstract,existing only in the mind
+318,abstracted,lost in thought; showing preoccupation
+319,abstractionist,not representing or imitating external reality or the objects of nature
+320,abstractive,of an abstracting nature or having the power of abstracting
+321,abstruse,difficult to understand
+322,absurd,inconsistent with reason or logic or common sense
+323,abulic,suffering from abulia
+324,abundant,present in great quantity
+325,abused,subjected to cruel treatment
+326,abusive,characterized by physical or psychological maltreatment
+327,abuzz,noisy like the sound of a bee
+328,abysmal,exceptionally bad or displeasing
+329,abyssal,relating to ocean depths from 2000 to 5000 meters
+330,academic,associated with an educational institution
+331,acanthoid,shaped like a spine or thorn
+332,acanthotic,of or relating to or having acanthosis
+333,acanthous,shaped like a spine or thorn
+334,acapnial,relating to or demonstrating acapnia
+335,acapnic,relating to or demonstrating acapnia
+336,acapnotic,relating to or demonstrating acapnia
+337,a cappella,sung without instrumental accompaniment
+338,acarpellous,having no carpels
+339,acarpelous,having no carpels
+340,acarpous,producing no fruit
+341,acatalectic,metrically complete
+342,acaudal,lacking a tail or taillike appendage
+343,acaudate,lacking a tail or taillike appendage
+344,acaulescent,(of plants) having no apparent stem above ground
+345,accelerando,gradually increasing in tempo
+346,accelerated,"speeded up, as of an academic course"
+347,accelerative,tending to increase velocity
+348,acceleratory,tending to increase velocity
+349,accented,bearing a stress or accent
+350,accentual,of or pertaining to accent or stress
+351,acceptable,worthy of approval or satisfactory
+352,acceptant,accepting willingly
+353,accepted,generally approved or compelling recognition
+354,accepting,tolerating without protest
+355,acceptive,inclined to accept rather than reject
+356,accessary,aiding and abetting in a crime
+357,accessible,capable of being reached
+358,accessional,of or constituting an accession
+359,accessorial,nonessential but helpful
+360,accessory,aiding and abetting in a crime
+361,accidental,happening by chance or unexpectedly or unintentionally
+362,accident-prone,having more than the average number of accidents
+363,accipitrine,of or relating to or belonging to the genus Accipiter
+364,acclivitous,sloping upward
+365,accommodating,obliging; willing to do favors
+366,accommodational,of or relating to the accommodation of the lens of the eye
+367,accommodative,tending to reconcile or accommodate; bringing into harmony
+368,accompanied,having companions or an escort
+369,accompanying,"occurring at the same time, along with, or as a consequence"
+370,accomplishable,capable of existing or taking place or proving true
+371,accomplished,highly skilled
+372,accordant,being in agreement or harmony; often followed by `with'
+373,according,in agreement with
+374,accountable,responsible for one's actions
+375,accoutered,provided with necessary articles of equipment for a specialized purpose (especially military)
+376,accoutred,provided with necessary articles of equipment for a specialized purpose (especially military)
+377,accredited,given official approval to act
+378,accretionary,marked or produced by accretion
+379,accretive,growing by accretion
+380,accrued,periodically accumulated over time
+381,acculturational,of or relating to acculturation
+382,acculturative,of or relating to acculturation
+383,accumbent,lying down; in a position of comfort or rest
+384,accumulated,periodically gathered over time
+385,accumulative,increasing by successive addition
+386,accurate,characterized by perfect conformity to fact or truth
+387,accursed,under or as if under an evil spell
+388,accurst,under a curse
+389,accusative,containing or expressing accusation
+390,accusatorial,specifically indicating a form of prosecution in which one is publicly accused of and tried for a crime and in which the judge is not also the prosecutor
+391,accusatory,containing or expressing blame
+392,accusing,containing or expressing accusation
+393,accusive,containing or expressing accusation
+394,accustomed,commonly used or practiced; usual
+395,ace,of the highest quality
+396,acellular,not made up of or divided into cells
+397,acentric,not centered or having no center
+398,acephalous,lacking a head or a clearly defined head
+399,acerate,narrow and long and pointed; as pine leaves
+400,acerb,sour or bitter in taste
+401,acerbic,sour or bitter in taste
+402,acerose,narrow and long and pointed; as pine leaves
+403,acervate,pertaining to a growth of fungi that forms a heaped-up mass
+404,acetabular,of the cup-shaped socket that receives the head of the thigh bone
+405,acetic,relating to a clear organic acid with a pungent odor
+406,acetonic,of or relating to acetone
+407,acetose,tasting or smelling like vinegar
+408,acetous,tasting or smelling like vinegar
+409,acetylenic,of or related to acetylene
+410,acetylic,of or related to acetic acid
+411,Achaean,of or relating to Achaea or its ancient Greek people
+412,achenial,pertaining to dry one-seeded indehiscent fruit
+413,Acheronian,dark and dismal as of the rivers Acheron and Styx in Hades
+414,Acherontic,dark and dismal as of the rivers Acheron and Styx in Hades
+415,achievable,capable of existing or taking place or proving true
+416,aching,causing a dull and steady pain
+417,achlamydeous,not having a floral envelope or perianth
+418,achlorhydric,lacking hydrochloric acid
+419,achondritic,of or related to an achondrite
+420,achondroplastic,of or relating to achondroplasia
+421,achromatic,having no hue
+422,achromatinic,not readily colored by stains
+423,achromatous,having little or inadequate color
+424,achromic,having no color
+425,achromous,having no color
+426,achy,causing a dull and steady pain
+427,acicular,narrow and long and pointed; as pine leaves
+428,aciculate,related to plants or animals or crystals having aciculae or needlelike parts
+429,acid,having a pH of less than 7
+430,acid-fast,not easily decolorized by acid solutions
+431,acid-forming,yielding an acid in aqueous solution
+432,acidic,having a pH of less than 7
+433,acidimetric,involving or related to acidimetry
+434,acid-loving,thriving in a relatively acidic environment
+435,acidophilic,especially of some bacteria; growing well in an acid medium
+436,acidophilous,especially of some bacteria; growing well in an acid medium
+437,acidotic,having or being characterized by acidosis
+438,acid-tasting,having a sour acidic taste
+439,acidulent,being sour to the taste
+440,acidulous,being sour to the taste
+441,aciduric,especially of some bacteria; growing well in an acid medium
+442,acinar,pertaining to one of the small sacs (as in a compound gland)
+443,acinic,pertaining to one of the small sacs (as in a compound gland)
+444,acinose,pertaining to one of the small sacs (as in a compound gland)
+445,acinous,pertaining to one of the small sacs (as in a compound gland)
+446,acknowledgeable,capable of being acknowledged
+447,acknowledged,recognized or made known or admitted
+448,acned,(of complexion) blemished by imperfections of the skin
+449,acneiform,resembling acne
+450,acold,of persons; feeling cold
+451,acorn-shaped,shaped like an acorn
+452,a couple of,more than one but indefinitely small in number
+453,acoustic,relating to the study of the physical properties of sound
+454,acoustical,of or relating to the science of acoustics
+455,acquainted,having fair knowledge of
+456,acquiescent,willing to carry out the orders or wishes of another
+457,acquirable,capable of being acquired
+458,acquired,gotten through environmental forces
+459,acquisitive,eager to attain and possess material possessions
+460,acquitted,declared not guilty of a specific offense or crime
+461,acrid,"strong and sharp, as a taste or smell"
+462,acrimonious,marked by strong resentment or cynicism
+463,acritical,without a crisis (as of some diseases)
+464,acrobatic,involving athletic feats that require balance and agility
+465,acrocarpous,(of mosses) having the archegonia at the top of the stem
+466,acrocentric,having a subterminal centromere
+467,acrogenic,pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem
+468,acrogenous,pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem
+469,acromegalic,marked or affected by enlargement or hypertrophy of the extremities or the face
+470,acronymic,characterized by the use of acronyms
+471,acronymous,characterized by the use of acronyms
+472,acropetal,of leaves or flowers
+473,acrophobic,suffering from acrophobia; abnormally afraid of high places
+474,acroscopic,facing or on the side toward the apex
+475,across-the-board,broad in scope or content
+476,actable,capable of being acted; suitable for the stage
+477,actinal,located on the surface or end on which the mouth is situated
+478,acting,serving temporarily especially as a substitute
+479,actinic,relating to or exhibiting actinism
+480,actinoid,having a radial form
+481,actinometric,of or related to actinometry
+482,actinometrical,of or related to actinometry
+483,actinomorphic,capable of division into symmetrical halves by any longitudinal plane passing through the axis
+484,actinomorphous,capable of division into symmetrical halves by any longitudinal plane passing through the axis
+485,actinomycetal,of or belonging to the actinomycetes
+486,actinomycetous,of or belonging to the actinomycetes
+487,actinomycotic,of or related to actinomycosis infection
+488,actionable,affording grounds for legal action
+489,activated,rendered active
+490,activating,causing motion or action or change
+491,active,characterized by energetic movement
+492,activist,advocating direct and militant action to achieve a goal
+493,activistic,advocating or engaged in activism
+494,actual,existing in act or fact
+495,actuarial,relating to statistics to calculate insurance premiums
+496,actuated,moved to get something done
+497,actuating,causing motion or action or change
+498,acuate,ending in a sharp point
+499,aculeate,having or resembling a stinger or barb
+500,aculeated,having or resembling a stinger or barb
+501,acuminate,(of a leaf shape) narrowing to a slender point
+502,acute,ending in a sharp point
+503,acyclic,not cyclic
+504,adactylous,without fingers and/or toes
+505,adagio,(of tempo) leisurely
+506,adamant,insistent; unwilling to change one's mind or opinion
+507,adamantine,consisting of or having the hardness of adamant
+508,adaptable,capable of fitting a particular situation or use
+509,adaptational,of or relating to adaptation
+510,adaptative,having a capacity for adaptation
+511,adapted,changed in order to improve or made more fit for a particular purpose
+512,adaptive,having a capacity for change
+513,adaxial,nearest to or facing toward the axis of an organ or organism
+514,addable,capable of being added or added to
+515,addible,capable of being added or added to
+516,addicted,compulsively or physiologically dependent on something habit-forming
+517,addictive,causing or characterized by addiction
+518,additional,further or extra
+519,additive,characterized or produced by addition
+520,addlebrained,stupid and confused
+521,addled,confused and vague; used especially of thinking
+522,addlepated,stupid and confused
+523,addressable,capable of being addressed
+524,addressed,(of mail) marked with a destination
+525,adducent,especially of muscles
+526,adducting,especially of muscles
+527,adductive,especially of muscles
+528,adenocarcinomatous,of or pertaining to adenocarcinoma
+529,adenoid,relating to or resembling lymphatic glands or lymphoid tissue
+530,adenoidal,of or pertaining to the adenoids
+531,adept,having or showing knowledge and skill and aptitude
+532,adequate,having the requisite qualities or resources to meet a task
+533,adequate to,having the requisite qualities for
+534,adherent,sticking fast
+535,adhesive,tending to stick to firmly
+536,ad hoc,for or concerned with one specific purpose
+537,ad hominem,appealing to personal considerations rather than to reason
+538,adiabatic,occurring without loss or gain of heat
+539,adient,characterized by acceptance or approach
+540,adipose,composed of animal fat
+541,adjacent,having a common boundary or edge
+542,adjectival,of or relating to or functioning as an adjective
+543,adjective,of or relating to the word class that qualifies nouns
+544,adjudicative,concerned with adjudicating
+545,adjudicatory,concerned with adjudicating
+546,adjunct,furnishing added support
+547,adjunctive,joining; forming an adjunct
+548,adjuratory,containing a solemn charge or command
+549,adjustable,capable of being changed so as to match or fit
+550,adjusted,altered to accommodate to certain requirements
+551,adjustive,conducive to adjustment
+552,adjuvant,furnishing added support
+553,ad-lib,said or done without having been planned or written in advance
+554,administrable,capable of being administered or managed
+555,administrative,responsible for managing the affairs of a group of people
+556,admirable,inspiring approval
+557,admired,regarded with admiration
+558,admissible,deserving to be accepted or allowed
+559,admissive,characterized by or allowing admission
+560,admittable,deserving to be allowed to enter
+561,admittible,deserving to be allowed to enter
+562,admonishing,expressing reproof or reproach especially as a corrective
+563,admonitory,"expressing reprimand, criticism, or censure"
+564,adnate,of unlike parts or organs; growing closely attached
+565,adnexal,of or pertaining to adnexa
+566,adolescent,in the state of development between puberty and maturity
+567,Adonic,or relating to or like Adonis
+568,adoptable,suitable or eligible for adoption
+569,adopted,acquired as your own by free choice
+570,adoptive,of parents and children; related by adoption
+571,adorable,lovable especially in a childlike or naive way
+572,adored,regarded with deep or rapturous love
+573,adoring,extravagantly or foolishly loving and indulgent
+574,adorned,provided with something intended to increase its beauty or distinction
+575,adpressed,pressed close to or lying flat against something
+576,adrenal,relating to the glands near the kidney or their secretions
+577,adrenergic,relating to epinephrine (its release or action)
+578,adrenocortical,of or derived from the cortex of the adrenal glands
+579,adrenocorticotrophic,stimulating or acting on the adrenal cortex
+580,adrenocorticotropic,stimulating or acting on the adrenal cortex
+581,adrift,afloat on the surface of a body of water
+582,adroit,quick or skillful or adept in action or thought
+583,adscititious,added or derived from something outside; not inherent
+584,adscript,written or printed immediately following another character and aligned with it
+585,adscripted,bound to a tract of land
+586,adsorbable,capable of being adsorbed or accumulated on a surface of a solid
+587,adsorbate,capable of being adsorbed or accumulated on a surface of a solid
+588,adsorbent,having capacity or tendency to adsorb or cause to accumulate on a surface
+589,adsorptive,having capacity or tendency to adsorb or cause to accumulate on a surface
+590,adulatory,obsequiously complimentary
+591,adult,fully developed
+592,adulterant,making impure or corrupt by adding extraneous materials
+593,adulterate,mixed with impurities
+594,adulterated,mixed with impurities
+595,adulterating,making impure or corrupt by adding extraneous materials
+596,adulterine,conceived in adultery
+597,adumbrative,indistinctly prophetic
+598,adust,dried out by heat or excessive exposure to sunlight
+599,advance,situated ahead or going before
+600,advanced,situated ahead or going before
+601,advancing,moving forward
+602,advantageous,giving a benefit
+603,advective,of or relating to advection
+604,adventitial,of or pertaining to the adventitia
+605,adventitious,associated by chance and not an integral part
+606,adventive,not native and not fully established
+607,adventuresome,willing to undertake or seeking out new and daring enterprises
+608,adventuristic,of or pertaining to adventurism
+609,adventurous,willing to undertake new and daring enterprises
+610,adverbial,of or relating to or functioning as an adverb
+611,adversarial,characterized by feelings of intense dislike or hostility
+612,adversative,expressing antithesis or opposition
+613,adverse,in an opposing direction
+614,advertent,giving attention
+615,advertised,called to public attention
+616,advisable,worthy of being recommended or suggested; prudent or wise
+617,advised,having received information
+618,advisory,giving guidance
+619,adynamic,lacking strength or vigor
+620,aecial,of or belonging to an aecium
+621,Aegean,of or relating to or bordering the Aegean Sea
+622,Aeolian,"of or pertaining to Aeolus, the Greek god of the winds"
+623,aeolotropic,having properties with different values along different axes
+624,aeonian,of or relating to a geological eon (longer than an era)
+625,aerated,(of a liquid) treated by having air passed or bubbled through it for purification
+626,aerial,"existing, living, growing, or operating in the air"
+627,aeriferous,conveying air; as the bronchial tubes
+628,aeriform,resembling air or having the form of air
+629,aerobic,depending on free oxygen or air
+630,aerobiotic,living or active only in the presence of oxygen
+631,aerodynamic,of or relating to aerodynamics
+632,aerolitic,of or pertaining to certain stony meteorites
+633,aerological,of or pertaining to aerology
+634,aeromechanic,of or pertaining to aerodynamics
+635,aeromedical,of or relating to aviation medicine
+636,aeronautic,of or pertaining to aeronautics
+637,aeronautical,of or pertaining to aeronautics
+638,aerophilatelic,of or relating to airmail stamps
+639,aerophilic,depending on free oxygen or air
+640,aerophilous,depending on free oxygen or air
+641,aerosolised,in the form of ultramicroscopic solid or liquid particles dispersed or suspended in air or gas
+642,aerosolized,in the form of ultramicroscopic solid or liquid particles dispersed or suspended in air or gas
+643,aery,characterized by lightness and insubstantiality
+644,Aeschylean,of or relating to or in the manner of Aeschylus
+645,aesculapian,of or belonging to Aesculapius or the healing art
+646,aesthetic,characterized by an appreciation of beauty or good taste
+647,aesthetical,concerning or characterized by an appreciation of beauty or good taste
+648,aestival,(rare) of or occurring in summer
+649,aetiologic,of or relating to the philosophical study of causation
+650,aetiological,of or relating to the philosophical study of causation
+651,afeard,a pronunciation of afraid
+652,afeared,a pronunciation of afraid
+653,afebrile,having no fever
+654,a few,more than one but indefinitely small in number
+655,affable,diffusing warmth and friendliness
+656,affected,influenced
+657,affecting,arousing emotion
+658,affectional,characterized by emotion
+659,affectionate,having or displaying warmth or fondness
+660,affective,characterized by emotion
+661,afferent,of nerves and nerve impulses
+662,affiliated,being joined in close association
+663,affinal,(anthropology) related by marriage
+664,affine,(anthropology) related by marriage
+665,affined,closely related
+666,affirmable,capable of being affirmed or asserted
+667,affirmative,giving assent
+668,affirmatory,affirming or giving assent
+669,affixal,of or pertaining to a linguistic affix
+670,affixed,firmly attached
+671,affixial,of or pertaining to a linguistic affix
+672,afflicted,mentally or physically unfit
+673,afflictive,causing misery or pain or distress
+674,affluent,having an abundant supply of money or possessions of value
+675,affordable,reasonably priced
+676,Afghan,of or relating to or characteristic of Afghanistan or its people
+677,Afghani,of or relating to or characteristic of Afghanistan or its people
+678,Afghanistani,of or relating to or characteristic of Afghanistan or its people
+679,afire,lighted up by or as by fire or flame
+680,aflame,lighted up by or as by fire or flame
+681,aflare,lighted up by or as by fire or flame
+682,aflicker,shining unsteadily
+683,afloat,borne on the water; floating
+684,aflutter,excited in anticipation
+685,afoot,traveling by foot
+686,aforementioned,being the one previously spoken of
+687,aforesaid,being the one previously mentioned or spoken of
+688,aforethought,planned in advance
+689,afoul,especially of a ship's lines etc
+690,afraid,filled with fear or apprehension
+691,African,of or relating to the nations of Africa or their peoples
+692,African-American,pertaining to or characteristic of Americans of African ancestry
+693,Afrikaans,belonging or relating to white people of South Africa whose ancestors were Dutch or to their language
+694,Afrikaner,belonging or relating to white people of South Africa whose ancestors were Dutch or to their language
+695,Afro-American,pertaining to or characteristic of Americans of African ancestry
+696,Afro-Asian,of or relating to the nations of Africa and Asia or their peoples
+697,aft,situated at or toward the stern or tail
+698,after,located farther aft
+699,after-hours,after closing time especially a legally established closing time
+700,aftermost,located closest to the stern or tail
+701,after-school,outside regular school hours
+702,aftershafted,having an aftershaft
+703,agamic,(of reproduction) not involving the fusion of male and female gametes in reproduction
+704,agamogenetic,(of reproduction) not involving the fusion of male and female gametes in reproduction
+705,agamous,(of reproduction) not involving the fusion of male and female gametes in reproduction
+706,agape,with the mouth wide open as in wonder or awe
+707,agaze,(used of eyes) open and fixed as if in fear or wonder
+708,aged,having attained a specific age;
+709,ageing,growing old
+710,ageless,continuing forever or indefinitely
+711,agelong,lasting through all time
+712,agential,of or relating to an agent or agency
+713,age-old,belonging to or lasting from times long ago
+714,age-related,changing as an individual's age increases
+715,agglomerate,clustered together but not coherent
+716,agglomerated,clustered together but not coherent
+717,agglomerative,clustered together but not coherent
+718,agglutinate,united as if by glue
+719,agglutinative,united as if by glue
+720,aggravated,made more severe or intense especially in law
+721,aggravating,making worse
+722,aggregate,formed of separate units gathered into a mass or whole
+723,aggregated,formed of separate units gathered into a mass or whole
+724,aggregative,formed of separate units gathered into a mass or whole
+725,aggressive,characteristic of an enemy or one eager to fight
+726,aghast,"struck with fear, dread, or consternation"
+727,agile,moving quickly and lightly
+728,aging,growing old
+729,agitated,physically disturbed or set in motion
+730,agitating,causing or tending to cause anger or resentment
+731,agitative,causing or tending to cause anger or resentment
+732,agleam,bright with a steady but subdued shining
+733,aglitter,having brief brilliant points or flashes of light
+734,aglow,softly bright or radiant
+735,agnate,related on the father's side
+736,agnatic,related on the father's side
+737,agnostic,of or pertaining to a religious orientation of doubt
+738,agnostical,uncertain of all claims to knowledge
+739,ago,gone by; or in the past
+740,agog,highly excited
+741,agonadal,lacking gonads
+742,agonal,pertaining to or associated with agony
+743,agone,gone by; or in the past
+744,agonised,expressing pain or agony
+745,agonising,extremely painful
+746,agonistic,striving to overcome in argument
+747,agonistical,striving to overcome in argument
+748,agonized,expressing pain or agony
+749,agonizing,extremely painful
+750,agoraphobic,suffering from agoraphobia
+751,agranulocytic,relating to the blood disorder of agranulocytosis
+752,agraphic,relating to or having agraphia
+753,agrarian,relating to rural matters
+754,agreeable,"pleasing to one's own tastes, feelings, or nature"
+755,agreed,united by being of the same opinion
+756,agreed upon,constituted or contracted by stipulation or agreement
+757,agrestic,characteristic of the fields or country
+758,agricultural,relating to or used in or promoting farming
+759,agrobiologic,of or pertaining to agrobiology
+760,agrobiological,of or pertaining to agrobiology
+761,agrologic,of or related to agrology
+762,agrological,of or related to agrology
+763,agronomic,of or relating to or promoting agronomy
+764,agronomical,of or relating to or promoting agronomy
+765,aground,stuck in a place where a ship can no longer float
+766,agrypnotic,of or pertaining to agrypnia
+767,aguish,affected by ague
+768,ahead,having the leading position or higher score in a contest
+769,ahistorical,unconcerned with or unrelated to the past
+770,ahorse,traveling on horseback
+771,ahorseback,traveling on horseback
+772,aided,having help; often used as a combining form
+773,ailing,somewhat ill or prone to illness
+774,aimless,drifting without direction
+775,ain,belonging to or on behalf of a specified person
+776,airborne,moved or conveyed by or through air
+777,air-breathing,deriving oxygen from the air
+778,air-conditioned,cooled by air conditioning
+779,air-cooled,cooled by a flow of air
+780,air-dried,made dry by contact with unheated air
+781,air-dry,not giving off moisture on exposure to the air
+782,aired,open to or abounding in fresh air
+783,air-filled,full of air
+784,airheaded,lacking seriousness; given to frivolity
+785,airless,lacking fresh air
+786,airlike,resembling air or having the form of air
+787,air sick,experiencing motion sickness
+788,airsick,experiencing motion sickness
+789,air-tight,not allowing air or gas to pass in or out
+790,airtight,completely sealed so as to prevent gas from moving in or out
+791,air-to-air,operating between or launched from or involving rockets or aircraft in flight
+792,air-to-ground,operating from or designed to be fired from aircraft at targets on the ground
+793,air-to-surface,operating from or designed to be fired from aircraft at targets on the ground
+794,airworthy,(of aircraft) fit to fly
+795,airy,open to or abounding in fresh atmosphere
+796,ajar,slightly open
+797,akimbo,bent outward with the joint away from the body
+798,akin,related by blood
+799,alabaster,of or resembling a white stone
+800,alabastrine,of or resembling alabaster
+801,a la carte,having many choices with a separate price for each item
+802,alacritous,quick and eager
+803,a la mode,in the current fashion or style
+804,alar,of or relating to the axil
+805,alarmed,experiencing a sudden sense of danger
+806,alarming,frightening because of an awareness of danger
+807,alary,having or resembling wings
+808,Alaskan,relating to or characteristic of the state or people of Alaska
+809,alate,(of seeds or insects) having winglike extensions
+810,alated,(of seeds or insects) having winglike extensions
+811,Albanian,of or relating to Albania or its people or language or culture
+812,albescent,becoming or shading into white
+813,Albigensian,of or relating to Albigenses or Albigensianism
+814,albinal,of or pertaining to or affected by albinism
+815,albinic,of or pertaining to or affected by albinism
+816,albinistic,of or pertaining to or affected by albinism
+817,albinotic,of or pertaining to or affected by albinism
+818,albitic,of or related to albite feldspar
+819,albuminous,relating to or containing or resembling albumin
+820,albuminuric,of or related to the state of albuminuria
+821,alcalescent,tending to become alkaline; slightly alkaline
+822,alchemic,related to or concerned with alchemy
+823,alchemical,related to or concerned with alchemy
+824,alchemistic,of or relating to alchemists
+825,alchemistical,of or relating to alchemists
+826,alcohol-dependent,addicted to alcohol
+827,alcoholic,characteristic of or containing volatile hydroxyl compounds
+828,alcohol-soluble,soluble in alcohol
+829,aldehydic,of or related to or containing aldehydes
+830,al dente,cooked so as to still be firm when eaten
+831,aldermanic,of or relating to or like an alderman
+832,aldermanly,of or relating to or like an alderman
+833,aleatory,dependent on chance
+834,alert,mentally perceptive and responsive
+835,aleuronic,of or related to aleurone
+836,Aleutian,of or relating to the Aleut or their language or culture
+837,Alexandrian,of or relating to Alexander the Great or his empire
+838,alexic,of or relating to or symptomatic of alexia
+839,alfresco,in the open air
+840,algal,of or relating to alga
+841,algebraic,of or relating to algebra
+842,algebraical,of or relating to algebra
+843,Algerian,of or relating to or characteristic of Algeria or its inhabitants
+844,algid,chilly
+845,algoid,of or resembling algae
+846,algolagnic,of or relating to algolagnia
+847,algometric,of or related to algometry
+848,algometrical,of or related to algometry
+849,Algonkian,of or relating to an Algonquian tribe or its people or language
+850,Algonquian,of or relating to an Algonquian tribe or its people or language
+851,Algonquin,of or relating to an Algonquian tribe or its people or language
+852,algophobic,suffering from algophobia; abnormally afraid of pain
+853,algorithmic,of or relating to or having the characteristics of an algorithm
+854,alien,from another place or part of the world
+855,alienable,transferable to another owner
+856,alienated,caused to be unloved
+857,alienating,causing hostility or loss of friendliness
+858,aliform,having or resembling wings
+859,alight,shining brightly as if on fire or aflame
+860,aligned,in a straight line
+861,aligning,causing to fall into line or into position
+862,alike,having the same or similar characteristics
+863,alimental,of or providing nourishment
+864,alimentary,of or providing nourishment
+865,alimentative,related to the supply of aliment
+866,aliphatic,having carbon atoms linked in open chains
+867,aliquot,signifying an exact divisor or factor of a quantity
+868,alive,possessing life
+869,alkahestic,of or pertaining to the alkahest that alchemists assumed to exist
+870,alkalescent,tending to become alkaline; slightly alkaline
+871,alkalic,relating to or containing an alkali
+872,alkaline,relating to or containing an alkali
+873,alkaline-loving,thriving in a relatively alkaline environment;
+874,alkaloidal,pertaining to or consisting of alkaloids
+875,alkalotic,marked by alkalosis (or a tendency toward alkalosis)
+876,alkylic,of or related to an alkyl
+877,allantoic,relating to or characterized by an allantois
+878,allantoid,shaped like a sausage
+879,allargando,gradually decreasing in tempo and broadening in manner
+880,all-around,many-sided
+881,all-devouring,(of animals) both plant-eating and flesh-eating
+882,alleged,doubtful or suspect
+883,allegiant,steadfast in devotion
+884,allegoric,used in or characteristic of or containing allegory
+885,allegorical,characteristic of or containing a symbolic meaning or moral
+886,allegretto,(of tempo) faster than allegro
+887,allegro,(of tempo) fast
+888,allelic,of or relating to alleles
+889,allelomorphic,of or relating to alleles
+890,all-embracing,broad in scope or content
+891,all-encompassing,broad in scope or content
+892,allergenic,relating to or having the effect of an allergen
+893,allergic,characterized by an immune response to a food or substance
+894,alleviated,(of pain or sorrow) made easier to bear
+895,alleviative,moderating pain or sorrow by making it easier to bear
+896,alleviatory,moderating pain or sorrow by making it easier to bear
+897,all-fired,extreme; used as an intensifier
+898,alliaceous,of or pertaining to the botanical genus Allium
+899,Allied,of or relating to or denoting the Allies in World War I
+900,allied,joined by treaty or agreement
+901,alligatored,of paint or varnish; having the appearance of alligator hide
+902,all important,of the greatest importance
+903,all-important,of the greatest importance
+904,all in,very tired
+905,all-inclusive,broad in scope or content
+906,alliterative,having the same consonant at the beginning of each stressed syllable
+907,all-knowing,infinitely wise
+908,all-mains,used of a radio receiver that is adaptable to all voltages
+909,all-metal,consisting completely of metal
+910,all-night,"lasting, open, or operating through the whole night"
+911,allocable,capable of being distributed
+912,allocatable,capable of being distributed
+913,allochronic,(of taxa) occurring in different geologic times
+914,allochthonous,"of rocks, deposits, etc."
+915,allogamous,relating to cross-fertilization in plants
+916,allogeneic,denoting or relating to cells or tissues from individuals belonging to the same species but genetically dissimilar (and hence immunologically incompatible)
+917,allographic,of or relating to an allograph
+918,allomerous,pertaining to allomerism
+919,allometric,relating to or marked by allometry
+920,allomorphic,pertaining to allomorphs
+921,allopathic,of or relating to the practice of allopathy
+922,allopatric,occurring in areas isolated geographically from one another
+923,allophonic,pertaining to allophones
+924,all-or-none,occurring completely or not occurring at all
+925,all-or-nothing,occurring completely or not occurring at all
+926,allotropic,of or related to or exhibiting allotropism
+927,allotropical,of or related to or exhibiting allotropism
+928,allotted,given as a task
+929,all-out,using all available resources
+930,all over,having come or been brought to a conclusion
+931,allover,covering the entire surface
+932,allowable,that may be permitted especially as according to rule
+933,alloyed,(used of metals) blended to obtain a desired property
+934,all-powerful,having unlimited power
+935,all-purpose,not limited in use or function
+936,all right,being satisfactory or in satisfactory condition
+937,all-round,many-sided
+938,all-time,unsurpassed in some respect up to the present
+939,alluring,highly attractive and able to arouse hope or desire
+940,allusive,characterized by indirect references
+941,alluvial,relating to deposits carried by rushing streams
+942,all-victorious,never having lost
+943,all-weather,usable or operative or practiced in all kinds of weather
+944,allylic,of or pertaining to the allyl radical
+945,almighty,having unlimited power
+946,almond-eyed,having almond-shaped eyes
+947,almond-scented,smelling of almond
+948,almond-shaped,shaped like an almond
+949,alone,isolated from others
+950,aloof,remote in manner
+951,alopecic,pertaining to loss of hair or wool or feathers
+952,alpestrine,growing at high altitudes
+953,alpha,first in order of importance
+954,alphabetic,arranged in order according to the alphabet
+955,alphabetical,arranged in order according to the alphabet
+956,alphabetised,having been put in alphabetical order
+957,alphabetized,having been put in alphabetical order
+958,alphameric,of or pertaining to alphanumeric characters
+959,alphamerical,of or pertaining to alphanumeric characters
+960,alphanumeric,of or pertaining to alphanumeric characters
+961,alphanumerical,of or pertaining to alphanumeric characters
+962,Alpine,relating to the Alps and their inhabitants
+963,alpine,relating to or characteristic of high mountains
+964,alright,nonstandard usage
+965,Alsatian,of or relating to or characteristic of Alsace or its inhabitants
+966,Altaic,of or pertaining to or written in Altaic
+967,alterable,capable of being changed in some characteristic
+968,alterative,tending to cure or restore to health
+969,altered,changed in form or character without becoming something else
+970,alternate,occurring by turns; first one and then the other
+971,alternating,occurring by turns; first one and then the other
+972,alternative,necessitating a choice between different possibilities
+973,altissimo,very high
+974,altitudinal,pertaining to altitude
+975,altitudinous,indefinitely high; lofty
+976,alto,of or being the lowest female voice
+977,altricial,naked and blind and dependent on parents for food
+978,altruistic,showing unselfish concern for the welfare of others
+979,alular,pertaining to alulae
+980,aluminiferous,containing alum or aluminum
+981,aluminous,pertaining to or containing aluminum or alum
+982,alveolar,pertaining to the tiny air sacs of the lungs
+983,alveolate,pitted with cell-like cavities (as a honeycomb)
+984,alvine,of or relating to the intestines
+985,a.m.,before noon
+986,amalgamate,joined together into a whole
+987,amalgamated,joined together into a whole
+988,amalgamative,characterized by or tending toward amalgamation
+989,amaranthine,of or related to the amaranth plant
+990,amateur,engaged in as a pastime
+991,amateurish,lacking professional skill or expertise
+992,amative,inclined toward or displaying love
+993,amatory,expressive of or exciting sexual love or romance
+994,amaurotic,pertaining to blindness caused by amaurosis
+995,amazed,filled with the emotional impact of overwhelming surprise
+996,amazing,inspiring awe or admiration or wonder
+997,ambagious,roundabout and unnecessarily wordy
+998,ambassadorial,of or relating to or characteristic of ambassadors
+999,amber,of a medium to dark brownish yellow color
+1000,amber-green,of green tinged with amber
+1001,ambidextrous,equally skillful with each hand
+1002,ambient,completely enveloping
+1003,ambiguous,having more than one possible meaning
+1004,ambitionless,having little desire for success or achievement
+1005,ambitious,having a strong desire for success or achievement
+1006,ambivalent,uncertain or unable to decide about what course to follow
+1007,ambiversive,intermediate between introversive and extroversive
+1008,amblyopic,pertaining to a kind of visual impairment without apparent organic pathology
+1009,ambrosial,worthy of the gods
+1010,Ambrosian,of or by or relating to Saint Ambrose
+1011,ambrosian,worthy of the gods
+1012,ambulacral,pertaining to the ambulacra of radial echinoderms
+1013,ambulant,able to walk about
+1014,ambulatory,able to walk about
+1015,ameban,pertaining to or resembling amoebae
+1016,amebic,pertaining to or resembling amoebae
+1017,ameboid,like an amoeba
+1018,amebous,pertaining to or resembling amoebae
+1019,ameliorating,tending to ameliorate
+1020,ameliorative,tending to ameliorate
